@@ -1,8 +1,7 @@
 numbers = [1, 2, 3, 4, 5]
-
-product = 1
+total = 0
 
 for num in numbers:
-    product *= num
+    total += num
 
-print(product)
+print(total)

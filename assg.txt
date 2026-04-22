@@ -1,7 +1,0 @@
-Write a Python program that uses a for loop to iterate
- over a list of numbers (1-10) and print each number.
-Create a while loop that prints the numbers from 1 to 5,
- incrementing the counter variable by 1 in each iteration.
-Use a for loop to iterate over a list of strings 
-(["apple", "banana", "cherry"]) and print each string.
-Write a Python program that uses a loop to calculate the sum of all numbers in a list ([1, 2, 3, 4, 5]) and print the result.

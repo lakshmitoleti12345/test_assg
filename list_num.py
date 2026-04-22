@@ -1,4 +1,4 @@
-def list_nums(nums):
-    for i in nums:
-        print(i)
-list_nums([1,2,3,4,5,6,7,8,9,10])
+numbers = list(range(1, 11))
+
+for num in numbers:
+    print(num)
